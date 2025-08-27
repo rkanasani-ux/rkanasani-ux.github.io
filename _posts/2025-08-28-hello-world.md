@@ -1,0 +1,1 @@
+---\nlayout: post\ntitle: "Hello World"\ndate: 2025-08-28\n---\n\nThis is my first blog post!
